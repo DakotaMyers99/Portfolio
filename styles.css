@@ -239,7 +239,7 @@ footer {
   font-size: 2rem;
   font-weight: 600;
   margin: 1.5rem 0;
-  color: var(--main-accent);
+  color: white;
 }
 
 .hero-description {
